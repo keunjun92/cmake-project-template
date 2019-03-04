@@ -1,5 +1,5 @@
 # CMake C++ Project Template
-이 프로젝트는 CMake 를 이용해서 C++ 프로젝트를 쉽게 만들기 위한 템플릿 입니다. Ubuntu 16.04 에서 테스트를 진행하였습니다.
+이 프로젝트는 CMake 를 이용해서 C++ 프로젝트를 쉽게 만들기 위한 템플릿 입니다. Ubuntu 16.04 에서 테스트를 진행하였습니다. 기술적인 설명은 [여기](https://keunjun.blog/2019/03/05/cmake-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%85%9C%ED%94%8C%EB%A6%BF/)와 각 주요 파일에 코멘트로 달아두었습니다.
 
 ## Usage
 ### Prerequisites
